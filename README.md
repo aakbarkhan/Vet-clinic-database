@@ -19,9 +19,9 @@
 
 👤 **aku**
 
-- GitHub: [@githubhandle](https://github.com/aakbarkhan)
-- Twitter: [@twitterhandle](https://twitter.com/aaku_mdakbar)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/akuu-khan/)
+- GitHub: [@aakbarkhan](https://github.com/aakbarkhan)
+- Twitter: [@aaku_mdakbar](https://twitter.com/aaku_mdakbar)
+- LinkedIn: [akuu-khan](https://www.linkedin.com/in/akuu-khan/)
 
 
 ## 🤝 Contributing
