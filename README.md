@@ -17,11 +17,11 @@
 
 ## Author
 
-👤 **Author1**
+👤 **aku**
 
 - GitHub: [@githubhandle](https://github.com/aakbarkhan)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@twitterhandle](https://twitter.com/aaku_mdakbar)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/akuu-khan/)
 
 
 ## 🤝 Contributing
