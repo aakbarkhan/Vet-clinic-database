@@ -1,7 +1,9 @@
-# curriculum-databases-projects-template
+# Vet-clinic
 
 - Vet-clinic database creation.
+- In this project, database is crated in the postgresql and wrote SQL to create table.
 - create a table to store animals' information, insert some data into it, and query it.
+- SQL is used for query.
 
 
 ## Getting Started
@@ -10,14 +12,16 @@
 - Use [data.sql](./data.sql) to populate tables with sample data.
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
+## Built With
+- SQL.
 
 ## Author
 
-👤 **Author1**
+👤 **aku**
 
-- GitHub: [@githubhandle](https://github.com/aakbarkhan)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@aakbarkhan](https://github.com/aakbarkhan)
+- Twitter: [@aaku_mdakbar](https://twitter.com/aaku_mdakbar)
+- LinkedIn: [akuu-khan](https://www.linkedin.com/in/akuu-khan/)
 
 
 ## 🤝 Contributing
